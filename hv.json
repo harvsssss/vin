@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "bahay namin",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/house.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 17.115722, 
+    "lng": 120.450215
+  },
+  {
+    "id": 2,
+    "name": "baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/Baluarte.jpg",
+    "price": 73.5,
+    "priceCurrency": "km",
+    "lat": 17.572089, 
+    "lng": 120.374054
+  },
+  {
+    "id": 3,
+    "name": "Coron",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/cor.jpg",
+    "price": 779.9 ,
+    "priceCurrency": "km",
+    "lat": 12.239172, 
+    "lng": 120.147272
+  },
+  {
+    "id": 4,
+    "name": "paoay church",
+    "imageUrl": "https://github.com/harvsssss/vin/blob/master/image/Paoay_Church_Ilocos_Norte.jpg",
+    "price": 132.3,
+    "priceCurrency": "km",
+    "lat": 18.083942, 
+    "lng": 120.518416
+  },
+  {
+    "id": 5,
+    "name": "Donsol",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/1.jpg",
+    "price": 884.6,
+    "priceCurrency": "km",
+    "lat": 13.174453, 
+    "lng": 123.552071
+  },
+    {
+    "id": 6,
+    "name": "Chocolate hills",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/a.jpg",
+    "price": 1262.4,
+    "priceCurrency": "km",
+    "lat": 9.998916, 
+    "lng": 124.162501
+  },
+    {
+    "id": 7,
+    "name": "Tubbataha Reef",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/b.jpg",
+    "price": 900,
+    "priceCurrency": "km",
+    "lat": 8.852289, 
+    "lng": 119.933161
+  },
+    {
+    "id": 8,
+    "name": "San Agustin Church, Manila",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/c.jpg",
+    "price": 336.3  ,
+    "priceCurrency": "km",
+    "lat": 14.672292, 
+    "lng": 120.983238
+  },
+    {
+    "id": 9,
+    "name": "Mayon Volcano",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/d.jpg",
+    "price": 1828.7,
+    "priceCurrency": "km",
+    "lat": 13.642900,
+    "lng": 123.713223
+  },
+    {
+    "id": 10,
+    "name": "Malapascua Island",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/e.jpg",
+    "price": 755.6,
+    "priceCurrency": "km",
+    "lat": 11.336896, 
+    "lng": 124.115737
+  },
+    {
+    "id": 11,
+    "name": "Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/f.jpg",
+    "price": 476.2,
+    "priceCurrency": "km",
+    "lat": 13.587074, 
+    "lng": 120.967006
+  },
+  {
+    "id": 12,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/g.jpg",
+    "price": 1140.7 ,
+    "priceCurrency": "km",
+    "lat": 10.370089, 
+    "lng": 118.951098
+  },
+   {
+    "id": 13,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/vin/master/image/h.jpg",
+    "price": 500,
+    "priceCurrency": "km",
+    "lat": 16.924057, 
+    "lng": 121.055672
+  } 
+]
